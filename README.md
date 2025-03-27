@@ -1,24 +1,39 @@
-# To-Do List Web Application
+# 📋 To-Do List Web Application
 
-## Overview
-This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete them. The design is clean, modern, and responsive, making it usable on both desktop and mobile devices. This project was created as part of my portfolio to showcase my skills in web development.
+## 🚀 Project Overview
 
-Made by Sahil Kumar
+Welcome to my To-Do List Web Application**! This is a simple yet functional task manager built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete them with ease. The design is clean, modern, and fully responsive, making it a great addition to my portfolio as I apply for internships.
 
-## Features
-- Add new tasks using an input field and button.
-- Mark tasks as completed by checking a checkbox (strikes through the task).
-- Delete tasks with a "Delete" button.
-- Responsive design that works on all screen sizes.
-- Modern styling with hover effects and a clean layout.
+Made by Sahil Kumar  
+🌟 A college student passionate about web development!
 
-## Technologies Used
-- HTML: For the structure of the application.
-- CSS: For styling, including responsiveness and animations.
-- JavaScript: For adding, completing, and deleting tasks.
+---
 
-## Setup Instructions
-1. Clone or Download the Project:
-   - Clone this repository to your local machine using:
+## ✨ Features
+
+- Add Tasks: Enter a task in the input field and click "Add Task" to add it to the list.
+- Mark as Completed: Check the box next to a task to mark it as done (strikes through the text).
+- Delete Tasks: Remove tasks with a single click using the "Delete" button.
+- Responsive Design: Works seamlessly on both desktop and mobile devices.
+- Modern Styling: Includes hover effects, shadows, and a clean layout for a polished look.
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology   | Purpose          |
+|--------------|------------------|
+|    HTML      | Structure of the app |
+|    CSS       | Styling and responsiveness |
+|  JavaScript  | Functionality (add, complete, delete tasks) |
+
+---
+
+## 📦 Setup Instructions
+
+Follow these steps to run the project on your local machine:
+
+1. **Clone or Download the Project**:
+   - Clone the repository:
      ```bash
      git clone <your-repo-url>
